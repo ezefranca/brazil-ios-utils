@@ -13,4 +13,5 @@
  * [Swift wrapper of](https://github.com/fpg1503/sinesp-swift) [SINESP API](https://www.sinesp.gov.br) 🔸 by [@fpg1503](https://github.com/fpg1503)
  * [Find and show bus of](https://github.com/fnazarios/busao-emtu) [EMTU](https://en.wikipedia.org/wiki/Empresa_Metropolitana_de_Transportes_Urbanos_de_São_Paulo) near you 🔷 by [@fnazarios](https://github.com/fnazarios)
  * [SPTransSwift](https://github.com/ezefranca/SPTransSwift) Swift wrapper of [SPTrans](https://en.wikipedia.org/wiki/SPTrans) API 🔸 by [@ezefranca](https://github.com/ezefranca)
+ * [SwiftMaskTextfield](https://github.com/gabriel-kozma/swift-mask-textfield) SwiftMaskTextfield inherits from UITextField for supporting masks into textfields, can be used to mask CPF, Phone, RG etc 🔸 by [@gabriel-kozma](https://github.com/gabriel-kozma)
   <br/> <br/>
