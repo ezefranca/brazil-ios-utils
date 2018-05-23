@@ -2,16 +2,88 @@
 
 🇧🇷 A list of util libraries for specific use cases / business in Brazil 
 
-#### Legend
+<table>
+     <tr>
+        <th>Legend</th>
+         </tr>
+    <tr>
+    <tr>
+        <th>🔸</th>
+        <th>Swift</th>
+         </tr>
+  <tr>
+        <th>🔹</th>
+        <th>Objective-C</th>
+    </tr>
+ </table>
 
-🔸 ```Swift```
-🔹 ```Objective-C```
+<table>
+    <tr>
+        <th></th>
+        <th>Description</th>
+        <th>URL</th>
+        <th>Author</th>
+    </tr>
+    <tr>
+        <td>🔸</td>
+        <td>CPF / CNPJ  Validator</td>
+        <td><a href="https://github.com/fpg1503/CPF-CNPJ-Validator"> :link: here</a></td>
+        <td><a href="https://github.com/fpg1503">@fpg1503</a></td>
+    </tr>
+    <tr>
+        <td>🔹</td>
+        <td>CPF / CNPJ  Validator</td>
+        <td><a href="https://github.com/GuilhermeMachado/Validador_CPF_CNPJ"> :link: here</a></td>
+        <td><a href="https://github.com/GuilhermeMachado">@GuilhermeMachado</a></td>
+ </tr>
+    <tr>
+        <td>🔹</td>
+        <td>States of Brazil</td>
+        <td><a href="https://github.com/brunokoga/iOS-StatesOfBrazil"> :link: here</a></td>
+        <td><a href="https://github.com/brunokoga">@brunokoga</a></td>
+    </tr>
+     <tr>
+        <td>🔸</td>
+        <td>Swift wrapper of SINESP API</td>
+        <td><a href="https://github.com/fpg1503/sinesp-swift"> :link: here</a></td>
+        <td><a href="https://github.com/fpg1503">fpg1503</a></td>
+    </tr>
+    <tr>
+        <td>🔹</td>
+        <td><a href="https://en.wikipedia.org/wiki/Empresa_Metropolitana_de_Transportes_Urbanos_de_São_Paulo"> EMTU </a> swift wrapper</td>
+        <td><a href="https://github.com/fnazarios/busao-emtu"> :link: here</a></td>
+        <td><a href="https://github.com/fnazarios/busao-emtu">@fnazarios</a></td>
+    </tr>
+     <tr>
+        <td>🔸</td>
+        <td>Swift wrapper of <a href="https://en.wikipedia.org/wiki/SPTrans">SPTrans</a> API</td>
+        <td><a href="https://github.com/ezefranca/SPTransSwift"> :link: here</a></td>
+        <td><a href="https://github.com/ezefranca">@ezefranca</a></td>
+    </tr>
+    <tr>
+        <td>🔸</td>
+        <td>SwiftMaskTextfield inherits from UITextField for supporting masks into textfields, can be used to mask CPF, Phone, RG</td>
+        <td><a href="https://github.com/gabriel-kozma/swift-mask-textfield"> :link: here</a></td>
+        <td><a href="https://github.com/gabriel-kozma">@gabriel-kozma</a></td>
+    </tr>
+ 
+</table>
 
- * [CPF / CNPJ  Validator](https://github.com/fpg1503/CPF-CNPJ-Validator) 🔸 by [@fpg1503](https://github.com/fpg1503)  
- * [CPF / CNPJ  Validator](https://github.com/GuilhermeMachado/Validador_CPF_CNPJ) 🔹 by [@GuilhermeMachado](https://github.com/GuilhermeMachado)  
- * [iOS-StatesOfBrazil](https://github.com/brunokoga/iOS-StatesOfBrazil) 🔹 by [@brunokoga](https://github.com/brunokoga)
- * [Swift wrapper of](https://github.com/fpg1503/sinesp-swift) [SINESP API](https://www.sinesp.gov.br) 🔸 by [@fpg1503](https://github.com/fpg1503)
- * [Find and show bus of](https://github.com/fnazarios/busao-emtu) [EMTU](https://en.wikipedia.org/wiki/Empresa_Metropolitana_de_Transportes_Urbanos_de_São_Paulo) near you 🔷 by [@fnazarios](https://github.com/fnazarios)
- * [SPTransSwift](https://github.com/ezefranca/SPTransSwift) Swift wrapper of [SPTrans](https://en.wikipedia.org/wiki/SPTrans) API 🔸 by [@ezefranca](https://github.com/ezefranca)
-  * [FEBRABANDecoder](https://github.com/vitormesquita/FEBRABANDecoder) 🔸 by [@vitormesquita](https://github.com/vitormesquita)
- * [SwiftMaskTextfield](https://github.com/gabriel-kozma/swift-mask-textfield) SwiftMaskTextfield inherits from UITextField for supporting masks into textfields, can be used to mask CPF, Phone, RG etc 🔸 by [@gabriel-kozma](https://github.com/gabriel-kozma)
+
+### How to contribute
+
+If you want to contribute to a project and make it better, your help is very welcome.
+
+Clone this project and add to main ```<table>``` your entry using this template
+
+```
+    <tr>
+        <td>🔸 or 🔹</td>
+        <td>a brief description of the project</td>
+        <td><a href="https://github.com/githubuser/project"> :link: here</a></td>
+        <td><a href="https://github.com/githubuser">@githubuser</a></td>
+    </tr>
+
+```
+
+And submit a PR.
